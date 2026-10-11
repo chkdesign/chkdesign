@@ -17,7 +17,7 @@ Referee assistant for iPhone and Apple Watch.
 
 ## 02 / RESEARCH
 
-**Sport Is Pressure**  
+**[Sport Is Pressure](https://github.com/chkdesign/sport-is-pressure)**  
 The Participation Layer of Live Sports.
 
 [Read on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6393138)
