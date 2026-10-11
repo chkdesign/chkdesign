@@ -1,6 +1,6 @@
 # Cristian Plop
 
-Designer by trade. Builder by necessity. Football by nature.
+**I design products, build software, and spend an unreasonable amount of time thinking about football.**
 
 ![Cristiano Ronaldo taking a drink.](assets/cristiano-ronaldo-drinking.gif)
 
