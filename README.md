@@ -22,7 +22,8 @@ The Participation Layer of Live Sports.
 
 [Read on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6393138)
 
-**[The Next Wave of Fan Engagement Is Participation](https://www.sportsbusinessjournal.com/Articles/2026/05/08/the-next-wave-of-fan-engagement-is-participation/)**
+**[The Next Wave of Fan Engagement Is Participation](https://www.sportsbusinessjournal.com/Articles/2026/05/08/the-next-wave-of-fan-engagement-is-participation/)**  
+Sports Business Journal · May 8, 2026
 
 ## 03 / ABOUT
 
