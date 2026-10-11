@@ -6,7 +6,7 @@ Football by nature.
 
 Previously EA SPORTS FC and UFL.
 
-<img src="https://media.tenor.com/NF6ixwAmrTMAAAAC/cristiano-ronaldo-drinking.gif" alt="Cristiano Ronaldo taking a drink." width="100%">
+<img src="assets/cristiano-ronaldo-drinking.gif" alt="Cristiano Ronaldo taking a drink." width="100%">
 
 ## 01 / BUILDING
 
