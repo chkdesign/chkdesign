@@ -1,12 +1,8 @@
 # Cristian Plop
 
-Designer by trade.  
-Builder by necessity.  
-Football by nature.
+Designer by trade. Builder by necessity. Football by nature.
 
-Previously EA SPORTS FC and UFL.
-
-<img src="assets/cristiano-ronaldo-drinking.gif" alt="Cristiano Ronaldo taking a drink." width="100%">
+![Cristiano Ronaldo taking a drink.](assets/cristiano-ronaldo-drinking.gif)
 
 ## 01 / BUILDING
 
@@ -21,11 +17,17 @@ Referee assistant for iPhone and Apple Watch.
 
 ## 02 / RESEARCH
 
-**Sport Is Pressure:**  
+**Sport Is Pressure**  
 The Participation Layer of Live Sports.
 
 [Read on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6393138)
 
-## 03 / ELSEWHERE
+## 03 / ABOUT
 
-[GitHub](https://github.com/chkdesign) · [Pulse](https://joinpulse.live/)
+Previously designed products at EA SPORTS, UFL and Crunchyroll.
+
+15+ years across mobile, web, console and TV.
+
+## 04 / ELSEWHERE
+
+[Portfolio](https://cristianplop.design/) · [Pulse](https://joinpulse.live/)
